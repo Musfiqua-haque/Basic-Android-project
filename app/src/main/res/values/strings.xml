@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTextviewDemo</string>
+    <string name="text_name">musfiqua haque</string>
+    <string name="number_name">01630408248</string>
+    <string name="myself_des">What is Lorem Ipsum? Lorem Ipsum is
+        \n \n
+        indust What is Lorem Ipsum?
+    </string>
+    <string name="login_name">LogIn</string>
+    <string name="logout_name">LogOut</string>
+    <string name="action_name"></string>
+</resources>
